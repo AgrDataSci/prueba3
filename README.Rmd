@@ -26,6 +26,7 @@ Data were recorded electronically using [Open Data Kit](https://opendatakit.org/
 
 The questionnaire was submitted for consideration to the [Western Institutional Review Board](http://www.wirb.com/Pages/default.aspx) (WIRB). The WIRB offers services to prestigious US universities. WIRB determined the survey was exempt from IRB clearance. The submission to WIRB included a description of the anonymization procedure, which will involve a pooling of the geographical coordinates to the centroid of each local community. 
 
+
 ## Grant information
 
 This research was supported by cooperative agreement AID-OAA-F-14-00035, which was made possible by the generous support of the American people through the [United States Agency for International Development](https://www.usaid.gov/) (USAID).
