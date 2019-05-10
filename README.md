@@ -2,6 +2,8 @@
 Characterisation of rural households: a baseline survey for crowdsourcing crop improvement and climate adaptation in Central America
 ====================================================================================================================================
 
+[![Generic badge](https://img.shields.io/badge/%3CSUBJECT%3E-%3CSTATUS%3E-%3CCOLOR%3E.svg)](https://shields.io/)
+
 Overview
 --------
 
