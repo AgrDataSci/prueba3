@@ -1,7 +1,7 @@
 ---
   output: github_document
-  bibliography: ["readme.bib"]
-  csl: citation_style.csl
+  bibliography: ["library/readme.bib"]
+  csl: library/citation_style.csl
 ---
 
 # Characterisation of rural households: a baseline survey for crowdsourcing crop improvement and climate adaptation in Central America
